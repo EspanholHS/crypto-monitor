@@ -90,11 +90,11 @@ Além disso, se houver uma falha inesperada durante a chamada (como falta de con
 ### Tela inicial do app
 ![image](https://github.com/user-attachments/assets/714dc936-1b6e-4908-b2c9-abc573cfbbf6)
 
-![image](https://github.com/user-attachments/assets/7cbb3820-2583-4f59-b1e5-612e574d4d8e)
+![Captura de tela 2025-04-19 114622](https://github.com/user-attachments/assets/856ec393-4952-49ed-9156-e28bf1ea4cca)
 
 
 ### Após atualização
-![image](https://github.com/user-attachments/assets/0aca28e2-111d-4be2-ab04-ce1d6e8098d8)
+![Captura de tela 2025-04-19 114807](https://github.com/user-attachments/assets/0536195b-ec00-476a-abce-76892a79d30d)
 
 ---
 
