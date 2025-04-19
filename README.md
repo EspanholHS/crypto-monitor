@@ -88,7 +88,8 @@ Além disso, se houver uma falha inesperada durante a chamada (como falta de con
 ## 📸 Evidências
 
 ### Tela inicial do app
-![image](https://github.com/user-attachments/assets/1d641158-112e-4387-8e2a-208b1b021f8f)
+![image](https://github.com/user-attachments/assets/714dc936-1b6e-4908-b2c9-abc573cfbbf6)
+
 ![image](https://github.com/user-attachments/assets/7cbb3820-2583-4f59-b1e5-612e574d4d8e)
 
 
