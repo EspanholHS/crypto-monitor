@@ -6,7 +6,7 @@ Aplicativo Android desenvolvido em Kotlin com o objetivo de monitorar em tempo r
 
 ## 🗂️ Arquivos principais
 
-### 📄 `MainActivity.kt` (main)
+###  `MainActivity.kt` (main)
 Arquivo principal da aplicação e **ponto de entrada do app**.  
 Responsável por:
 - Configurar o layout da tela principal
@@ -16,7 +16,7 @@ Responsável por:
 
 ---
 
-### 📄 `MercadoBitcoinService.kt` (service)
+###  `MercadoBitcoinService.kt` (service)
 Interface Kotlin usada com Retrofit para definir o serviço de rede.  
 Contém o endpoint da API pública do Mercado Bitcoin, que retorna as informações da criptomoeda.
 
@@ -27,19 +27,19 @@ suspend fun getTicker(): Response<TicketResponse>
 
 ---
 
-### 📄 `MercadoBitcoinServiceFactory.kt` (factory)
+###  `MercadoBitcoinServiceFactory.kt` (factory)
 Responsável por criar e configurar o **Retrofit**.  
 Retorna uma instância da interface `MercadoBitcoinService` já pronta para uso com a base URL e conversor JSON configurados.
 
 ---
 
-### 📄 `TicketResponse.kt` (model extra)
+###  `TicketResponse.kt` (model extra)
 Modelo de dados que representa a resposta da API com os dados da cotação.  
 Usado para extrair o preço da moeda e o timestamp do momento da cotação.
 
 ---
 
-## ▶️ Como Executar
+##  Como Executar
 
 1. Abra o projeto no Android Studio.
 2. Conecte um celular físico ou utilize um emulador (API 30+).
@@ -85,7 +85,7 @@ Além disso, se houver uma falha inesperada durante a chamada (como falta de con
 
 
 
-## 📸 Evidências
+##  Evidências
 
 ### Tela inicial do app
 ![image](https://github.com/user-attachments/assets/714dc936-1b6e-4908-b2c9-abc573cfbbf6)
